@@ -8,6 +8,7 @@ GitHub supports an extended set of markdown, and has an intoductory guide here: 
 
 I am introducing the changes to the start file.
 I was successful with the first change.
+I was successful with the second change.
 You can use markdown in many of the text fields on GitHub to add extra formatting to your text:
 * Gists
 * Comments in Issues and Pull Requests
